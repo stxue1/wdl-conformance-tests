@@ -1,5 +1,3 @@
-version 1.0
-
 workflow stderrWorkflow {
   input {
     String message
